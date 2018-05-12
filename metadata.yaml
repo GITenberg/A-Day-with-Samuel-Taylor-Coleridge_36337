@@ -1,0 +1,40 @@
+_repo: A-Day-with-Samuel-Taylor-Coleridge_36337
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+covers:
+- cover_type: archival
+  image_path: 36337-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Gillington, May Clarissa
+    - Gillington, M. C. (May Clarissa)
+    - Clare, Maurice
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2011-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834'
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+title: A Day with Samuel Taylor Coleridge
+url: http://www.gutenberg.org/ebooks/36337
